@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Getting more women to race the Horsetooth Time Trial Series"
+date: 2016-3-20 
+categories: cycling
+---
+Fort Collins, CO is home to a thriving cycling scene. Your Group Ride hosts an annual time trial series every tuesday in April called the Horsetooth Time Trial Series. The hilly 14.35 mile course runs along Horsetooth Reservoire and Horsetooth Mountain Park climbing __feet
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/segments/1213731/embed'></iframe>
+
+This year will be it's sixth year running, and in an attempt to encourage more women to give it a try I compiled data from the previous five years races to see how participation has differed by gender.
+
+
+Check out the [race results][results] for top times (data from [YGR google docs][YGR drive]). *Note, times from 2011 are omitted due to different course.
+
+
+[results]: http://github.com/skammlade/projects/HTTT/HTTT.csv
+[YGR drive]: https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/pub?output=html
