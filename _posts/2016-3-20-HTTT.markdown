@@ -10,9 +10,10 @@ Fort Collins, CO is home to a thriving cycling scene. Your Group Ride hosts an a
 
 This year will be it's sixth year running, and in an attempt to encourage more women to give it a try I compiled data from the previous five years races to see how participation has differed by gender.
 
+![plot HTTT attendance by year and gender](https://github.com/skammlade/projects/blob/master/HTTT/images/plot.yeargender.HTTT.tif?raw=true)
 
 Check out the [race results][results] for top times (data from [YGR google docs][YGR drive]). *Note, times from 2011 are omitted due to different course.
 
 
-[results]: http://github.com/skammlade/projects/HTTT/HTTT.csv
+[results]: https://github.com/skammlade/projects/blob/master/HTTT/HTTT.csv
 [YGR drive]: https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/pub?output=html
