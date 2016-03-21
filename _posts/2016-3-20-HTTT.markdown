@@ -5,25 +5,26 @@ date: 2016-3-20
 categories: cycling
 ---
 ![HTdams](/images/dams_handlebar.jpg "HTDam Soldier Hill Descent")
-
+<br>
+<br>
+<br>
 Fort Collins, CO is home to a thriving cycling scene. Your Group Ride hosts an annual time trial every Tuesday in April known as the [Horsetooth Time Trial Series][HTTT flyer]. The hilly 14.35 mile course runs along Horsetooth Reservoire and Horsetooth Mountain Park climbing a total of 1,336 feet!	
 <br>
 <br>
 <br>
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/segments/1213731/embed2" frameborder="0" scrolling="no"></iframe>	
-
-	
-
+<br>
+<br>
+<br>
 This year will be it's sixth year running and in an attempt to encourage more women to give it a try I compiled data from the previous five years to see how rider participation has differed by gender:	
-
-
-
+<br>
+<br>
+<br>
 ![plot HTTT attendance by year and gender](/images/plot.yeargender.HTTT.png "HTTT Plot")	
-
-
-	
-Play around with the [race data][results] yourself (pulled from [YGR google docs][YGR drive]). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
-
+<br>
+<br>
+<br>
+You can play around with the [race data][results] yourself (pulled from [YGR google docs][YGR drive]). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
 
 [results]: https://github.com/skammlade/projects/blob/master/HTTT/HTTT.csv
 [YGR drive]: https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/pub?output=html
