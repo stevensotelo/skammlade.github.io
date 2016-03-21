@@ -20,11 +20,39 @@
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          {% if site.linkedin_username %}
+        <li>
+          <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+          <i class="fa fa-linkedin"></i> LinkedIn
+        </a>
+        </li>
           {% endif %}
+
+          {% if site.facebook_username %}
+           <li>
+             <a href="https://www.facebook.com/{{ site.facebook_username }}">
+            <i class="fa fa-facebook"></i> Facebook
+         </a>
+         </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li>
+          <a href="https://www.instagram.com/{{ site.facebook_username }}">
+            <i class="fa fa-instagram"></i> Instagram
+         </a>
+         </li>
+          {% endif %}
+
+          {% if site.strava_username %}
+          <li>
+          <a href="https://www.strava.com/athletes/{{ site.facebook_username }}">
+            <i class="fa fa-bicycle"></i> Strava
+          </a>
+        </li>
+        {% endif %}
+
+          
         </ul>
       </div>
 
