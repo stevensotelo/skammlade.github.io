@@ -27,5 +27,5 @@ This year will be the sixth year running and in an attempt to encourage more wom
 You can play around with the [race data][results] yourself (pulled from [YGR google docs][YGR drive]). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
 
 [results]: https://github.com/skammlade/projects/blob/master/HTTT/HTTT.csv
-[YGR drive]: https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/pub?output=html
+[YGR drive]: https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/edit?pref=2&pli=1#gid=234516618
 [HTTT flyer]: http://yourgroupride.com/index.php/local-races/horsetooth-time-trial-series
