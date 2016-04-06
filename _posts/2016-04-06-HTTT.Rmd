@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "Horsetooth Time Trial Series"
-date: 2016-3-20 
-categories: cycling
+title: "YGR Horsetooth Time Trial Series"
+author: "sara"
+date: "6 April 2016"
+output: html_document
 ---
-
 ![HTdams](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/dams_handlebar.jpg)
 <br>
 <br>
@@ -23,8 +22,6 @@ I wanted to see how the racer turnout compared between men versus women so I plo
 source('plot.yeargender.HTTT.R')
 ```
 <br>
-<br>
-<br>
 I thought it was a little strange that 2013 had such a low showing. I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each date during the race time and found it was rideable weather for all of the races!
 <br>
 <br>
@@ -34,10 +31,8 @@ source('plot.weather.HTTT.R')
 p
 ```
 <br>
-<br>
-<br>
-Here are the top 5 times from each category to date: 
-<br>
+
+####Top 5 times from each category to date: 
 
 #####Female Aero 
 ```{r echo=FALSE}

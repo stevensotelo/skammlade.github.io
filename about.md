@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![2015 Equinox Poudre Canyon](/images/sarawill.park.jpg)
 
-I'm a plant breeder learning how to be a data scientist. You can find me [riding bikes][Strava], playing with plants, and tackling data projects in Fort Collins, CO with my husband, Will.
+You can find me [riding bikes][Strava], playing with plants, and tackling data projects in Fort Collins, CO with my husband, Will.
 
 [Strava]: https://www.strava.com/athletes/skammlade
 [willblog]: https://willhickey.github.io
