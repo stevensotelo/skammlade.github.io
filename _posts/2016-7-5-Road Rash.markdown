@@ -21,12 +21,12 @@ We feel so strongly about this method that we’re donating some bandages to YGR
 <br>
 <br>
 #### *Long Version:*  
-I crashed in the Rio Road Race last week and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
+I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
 
 In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought one of every product marketed for abrasions. The superficial road rash down the outside of his left leg made for a perfect experiment site, pitting the different bandages against each other.  Johnson & Johnson’s Tough Pads™ quickly emerged as the clear winner.
 <br>
 <br>
-![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg = 100x200)
+![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg)
 <br>
 <br>
 Tough Pads, a hydrocolloid dressing, are impermeable and adhere to the skin to create a warm, moist, hypoxic environment ideal for wound healing.<sup>1</sup> The bandage contains gel-forming agents (colloids) which absorb wound exudate allowing the bandage to stay on for multiple days without disturbing the wound. Even better, the waterproof exterior and flexibility of the bandage allow you to bathe and move comfortably.
@@ -35,9 +35,9 @@ Since that day in 2007 Will has been a Tough Pad evangelist and last week I shot
 
 After my crash Will drove me home where we assessed my wounds, then cleaned and patched up my skin quickly blowing through our stash of 17 Tough Pads. We were unable to cover everything so supplemented with “nonstick” gauze. We found the following protocol worked well:
 
-**Step 1: Clean**
+> **Step 1: Clean**
 
-Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
+> Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
 
 **Step 2: Cover**
 
