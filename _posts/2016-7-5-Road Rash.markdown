@@ -6,14 +6,14 @@ categories: cycling
 ---
 Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
 
-*Short Version:* Use Tough Pads™ to treat road rash.
+*Short Version:* Use Tough Pads™ to treat road rash.  
 * Order some here now so you have them; they’re hard to find in drugstores.
 * Clean the wound.
 * Apply overlapped as necessary, and leave on for an extended period of time. 
-* Don’t use them on deep gashes or any wounds you can’t get clean.
+* Don’t use them on deep gashes or any wounds you can’t get clean.  
 We feel so strongly about this method that we’re donating some bandages to YGR’s Wounded Rider Project. We hope you don’t need to use them.
 
-*Long Version:*
+*Long Version:*  
 I crashed in the Rio Road Race last week and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
 
 In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought one of every product marketed for abrasions. The superficial road rash down the outside of his left leg made for a perfect experiment site, pitting the different bandages against each other.  Johnson & Johnson’s Tough Pads™ quickly emerged as the clear winner.
