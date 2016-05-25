@@ -5,7 +5,7 @@ date: 2016-5-10
 categories: cycling
 ---
 Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
----
+-
 *Short Version:* 
 Use Tough Pads™ to treat road rash.  
 
@@ -18,7 +18,7 @@ Use Tough Pads™ to treat road rash.
 * Don’t use them on deep gashes or any wounds you can’t get clean.
 
 We feel so strongly about this method that we’re donating some bandages to YGR’s Wounded Rider Project. We hope you don’t need to use them.
----
+-
 <br>
 <br>
 *Long Version:*  
