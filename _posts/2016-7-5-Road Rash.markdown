@@ -7,10 +7,10 @@ categories: cycling
 Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
 
 *Short Version:* Use Tough Pads™ to treat road rash.  
-* Order some here now so you have them; they’re hard to find in drugstores.
-* Clean the wound.
+* Order some here now so you have them; they’re hard to find in drugstores.  
+* Clean the wound.  
 * Apply overlapped as necessary, and leave on for an extended period of time. 
-* Don’t use them on deep gashes or any wounds you can’t get clean.  
+* Don’t use them on deep gashes or any wounds you can’t get clean.    
 We feel so strongly about this method that we’re donating some bandages to YGR’s Wounded Rider Project. We hope you don’t need to use them.
 
 *Long Version:*  
