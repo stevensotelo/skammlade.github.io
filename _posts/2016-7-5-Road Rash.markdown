@@ -11,17 +11,18 @@ categories: cycling
 #### *Short Version:*  
 Use Tough Pads™ to treat road rash.  
 
-* Order some here now so you have them; they’re hard to find in drugstores.  
+* Order some here now so you have them; they’re hard to find in drugstores  
 
-* Clean the wound.  
+* Clean the wound  
 
-* Apply overlapped as necessary, and leave on for an extended period of time. 
+* Apply overlapped as necessary, and leave on for an extended period of time 
 
-* Don’t use them on deep gashes or any wounds you can’t get clean.
+* Don’t use them on deep gashes or any wounds you can’t get clean
 
 We feel so strongly about this method that we’re donating some bandages to YGR’s Wounded Rider Project. We hope you don’t need to use them.
 
 * * *
+<br>
 
 #### *Long Version:*  
 I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
@@ -37,10 +38,12 @@ Tough Pads, a hydrocolloid dressing, are impermeable and adhere to the skin to c
 Since that day in 2007 Will has been a Tough Pad evangelist and last week I shotgunned the kool-aid and smashed the can on my forehead.  
 
 After my crash Will drove me home where we assessed my wounds, then cleaned and patched up my skin quickly blowing through our stash of 17 Tough Pads. We were unable to cover everything so supplemented with “nonstick” gauze. We found the following protocol worked well:
+<br>
+<br>
+<br>
+**Step 1: Clean**
 
-> **Step 1: Clean**
-
-> Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
+Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
 
 **Step 2: Cover**
 
@@ -61,8 +64,20 @@ After anywhere from 3-8 days you can remove the dressing revealing shiny new ski
 **Step 5: Tell your friends**
 
 Restock your supply.
-
+<br>
+<br>
+<br>
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
+
+| Product | Brand | Size | Buy in Town | Buy Online | Comments |
+| ------- | ----- | ---- | ----------- | ---------- | -------- |
+
+| Product     | Brand             | Size        | Buy in Town | Buy Online | Comments |
+|-------------|-------------------|-------------|-------------|------------|----------|
+| Tough Pads™ | Johnson & Johnson | 2.8" x 2.4" | n/a         |            |          |
+|             |                   |             |             |            |          |
+|             |                   |             |             |            |          |
+|             |                   |             |             |            |          |
 
 
 You can play around with the [race data][results] yourself (pulled from [YGR google docs][YGR drive]). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
