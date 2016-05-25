@@ -22,7 +22,7 @@ In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought
 <br>
 <br>
 <br>
-![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg = x100)
+![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg = 100x200)
 <br>
 <br>
 <br>
