@@ -39,7 +39,7 @@ Since that day in 2007 Will has been a Tough Pad evangelist and last week I shot
 After my crash Will drove me home where we assessed my wounds, then cleaned and patched up my skin quickly blowing through our stash of 17 Tough Pads. We were unable to cover everything so supplemented with “nonstick” gauze. We found the following protocol worked well:
 
 * * *
-
+<br>
 **Step 1: Clean**
 
 Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
@@ -79,7 +79,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 960px">
+<table class="tg" style="undefined;table-layout: fixed; width: 900px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 80px">
@@ -137,7 +137,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-b7b8">Have not tried or seen in person.</td>
   </tr>
 </table>
-<dl>
+</dl>
 
 
 Here’s some more information about hydrocolloid dressings for you nerds:  
