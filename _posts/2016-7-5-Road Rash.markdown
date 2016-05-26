@@ -67,8 +67,6 @@ Restock your supply.
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 
 {{#markdown}}
-'''html
-<dl>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
@@ -137,8 +135,6 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-b7b8">Have not tried or seen in person.</td>
   </tr>
 </table>
-</dl>
-'''
 {{/markdown}}
 
 Here’s some more information about hydrocolloid dressings for you nerds:  
@@ -148,7 +144,9 @@ In the early 60s several key studies demonstrated that wounds heal faster when k
 
 <sup>1</sup> Boateng, J. S., Matthews, K. H., Stevens, H. N., & Eccleston, G. M. (2008). Wound Healing Dressings and Drug Delivery Systems: A Review. Journal of Pharmaceutical Sciences, 97(8), 2892-2923. doi:10.1002/jps.21210  
 
+
 <sup>2</sup> Winter, G. D. (1962). Formation of the Scab and the Rate of Epithelization of Superficial Wounds in the Skin of the Young Domestic Pig. Nature, 193(4812), 293–294. doi:10.1038/193293a0  
+
 
 <sup>3</sup> Hinman, C. D., & Maibach, H. (1963). Effect of Air Exposure and Occlusion on Experimental Human Skin Wounds. Nature, 200(4904), 377-378. doi:10.1038/200377a0  
 
