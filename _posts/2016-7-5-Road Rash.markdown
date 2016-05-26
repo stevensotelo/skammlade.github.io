@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Better Treatment for Road Rash"
-date: 2016-5-10 
+date: 2016-5-25 
 categories: cycling
 ---
 ###### Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
@@ -11,7 +11,7 @@ categories: cycling
 #### *Short Version:*  
 Use Tough Pads™ to treat road rash.  
 
-* Order some here now so you have them; they’re hard to find in drugstores  
+* Order some [here](http://www.amazon.com/Band-Aid-Adhesive-Pads-Hydrocolloid-Tough/dp/B00FQR84M8/ref=sr_1_2_a_it?ie=UTF8&qid=1462292075&sr=8-2) now so you have them; they’re hard to find in drugstores  
 
 * Clean the wound  
 
@@ -72,7 +72,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-twxl{font-weight:bold;background-color:#05c3c3;color:#ffffff}
+.tg .tg-twxl{font-weight:bold;background-color:#0062B2;color:#ffffff}
 .tg .tg-b7b8{background-color:#f9f9f9;vertical-align:top}
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
