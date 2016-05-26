@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Horsetooth Time Trial Series"
+title: "Horsetooth Time Trial Series.markdown"
 date: 2016-3-20 
 categories: cycling
 ---

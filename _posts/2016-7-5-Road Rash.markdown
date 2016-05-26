@@ -79,11 +79,11 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 80px">
-<col style="width: 80px">
+<col style="width: 70px">
 <col style="width: 80px">
 <col style="width: 100px">
 <col style="width: 100px">
-<col style="width: 275px">
+<col style="width: 250px">
 </colgroup>
   <tr>
     <th class="tg-twxl">Product</th>
