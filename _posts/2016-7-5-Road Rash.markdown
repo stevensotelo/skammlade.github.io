@@ -29,7 +29,7 @@ I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement
 In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought one of every product marketed for abrasions. The superficial road rash down the outside of his left leg made for a perfect experiment site, pitting the different bandages against each other.  Johnson & Johnson’s Tough Pads™ quickly emerged as the clear winner.
 <br>
 <br>
-![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg)
+![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads.jpg =505x500)
 <br>
 <br>
 Tough Pads, a hydrocolloid dressing, are impermeable and adhere to the skin to create a warm, moist, hypoxic environment ideal for wound healing.<sup>1</sup> The bandage contains gel-forming agents (colloids) which absorb wound exudate allowing the bandage to stay on for multiple days without disturbing the wound. Even better, the waterproof exterior and flexibility of the bandage allow you to bathe and move comfortably.
