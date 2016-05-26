@@ -29,8 +29,6 @@ I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement
 In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought one of every product marketed for abrasions. The superficial road rash down the outside of his left leg made for a perfect experiment site, pitting the different bandages against each other.  Johnson & Johnson’s Tough Pads™ quickly emerged as the clear winner.
 <br>
 <br>
-![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg)
-
 <img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg">
 <br>
 <br>
