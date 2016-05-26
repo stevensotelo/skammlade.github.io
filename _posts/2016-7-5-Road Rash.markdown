@@ -41,11 +41,9 @@ After my crash Will drove me home where we assessed my wounds, then cleaned and 
 * * *
 <br>
 **Step 1: Clean**
-
 Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
 
 **Step 2: Cover**
-
 Warm up the bandage between your hands. Apply bandages at least ½” beyond the edge of the wound. Overlap bandages in a patchwork manner to cover large wounds overlapping at least ¼”. Place hand over the bandage to keep it warm as you press it down firmly onto the skin paying close attention to the edges. Wounds will weep exudate while healing; allowing plenty of edge and overlap will reduce chances of leakage.
 
 The Tough Pad directions say to make sure the wound is clear of any debris and ointments before applying the bandage. I put some triple antibiotic ointment on a few gashes and found it only slowed wound healing - presumably the ointment impeded wound debridement and absorption into the bandage.
@@ -68,6 +66,7 @@ Restock your supply.
 
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 
+'''html
 <dl>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
@@ -138,7 +137,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
   </tr>
 </table>
 </dl>
-
+'''
 
 Here’s some more information about hydrocolloid dressings for you nerds:  
 
