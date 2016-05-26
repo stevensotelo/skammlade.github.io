@@ -152,7 +152,74 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
   </tr>
 </table>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-twxl{font-weight:bold;background-color:#05c3c3;color:#ffffff}
+.tg .tg-b7b8{background-color:#f9f9f9;vertical-align:top}
+.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 960px">
+<colgroup>
+<col style="width: 146px">
+<col style="width: 80px">
+<col style="width: 82px">
+<col style="width: 166px">
+<col style="width: 135px">
+<col style="width: 351px">
+</colgroup>
+  <tr>
+    <th class="tg-twxl">Product</th>
+    <th class="tg-twxl">Brand</th>
+    <th class="tg-twxl">Size</th>
+    <th class="tg-twxl">Buy in Town</th>
+    <th class="tg-twxl">Buy online</th>
+    <th class="tg-twxl">Comments</th>
+  </tr>
+  <tr>
+    <td class="tg-b7b8">Tough Pads™</td>
+    <td class="tg-b7b8">Johnson &amp; Johnson</td>
+    <td class="tg-dzk6">2.8" x 2.4"</td>
+    <td class="tg-b7b8">n/a</td>
+    <td class="tg-b7b8">[$37.99/<br>6 boxes/4 pads each]</td>
+    <td class="tg-b7b8">Tried and true. Stock up.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Hydrocolloid Dressings</td>
+    <td class="tg-yw4l">ReliaMed</td>
+    <td class="tg-baqh">4" x 4"</td>
+    <td class="tg-yw4l">n/a</td>
+    <td class="tg-yw4l">[$36.92/<br>box of 10 bandages]</td>
+    <td class="tg-yw4l">I didn't try these until 7 days post-crash so cannot speak to their absorption. The edges of these bandages are beveled so I would suggest cutting the border edge off of the bottom bandage if you plan to overlap them to cover a large area.</td>
+  </tr>
+  <tr>
+    <td class="tg-b7b8">Blister Bandages</td>
+    <td class="tg-b7b8">Kroger</td>
+    <td class="tg-dzk6">1" x 2"</td>
+    <td class="tg-b7b8">King Soopers<br>($4/box of 6 bandages)</td>
+    <td class="tg-b7b8">n/a</td>
+    <td class="tg-b7b8">These thinner dressings have a smaller absorption capacity than Tough Pads or the Hydrocolloid Dressings and are best used for patching a leaking edge or for a round-2 dressing on a small wound.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DuoDERM® Signal™</td>
+    <td class="tg-yw4l">ConvaTec</td>
+    <td class="tg-baqh">4" x 4"</td>
+    <td class="tg-yw4l">City Drug<br>($9/bandage)</td>
+    <td class="tg-yw4l">[$32.99/box of 5 bandages][DD]</td>
+    <td class="tg-yw4l">Less flexible than the Tough Pads, but effective.</td>
+  </tr>
+  <tr>
+    <td class="tg-b7b8">Exuderm®</td>
+    <td class="tg-b7b8">Medline</td>
+    <td class="tg-dzk6">4" x 4"</td>
+    <td class="tg-b7b8">PVHS Home Medical Supply<br>($12/bandage)</td>
+    <td class="tg-b7b8">&lt;a href="www.google.com"&gt;Try Link&lt;a/&gt;</td>
+    <td class="tg-b7b8">Have not tried or seen in person.</td>
+  </tr>
+</table>
 
 
 
