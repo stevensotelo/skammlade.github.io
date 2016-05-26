@@ -8,7 +8,7 @@ categories: cycling
 
 * * *
 
-#### *Short Version:*  
+### *Short Version:*  
 Use Tough Pads™ to treat road rash.  
 
 * Order some [here](http://www.amazon.com/Band-Aid-Adhesive-Pads-Hydrocolloid-Tough/dp/B00FQR84M8/ref=sr_1_2_a_it?ie=UTF8&qid=1462292075&sr=8-2) now so you have them; they’re hard to find in drugstores  
@@ -23,7 +23,7 @@ We feel so strongly about this method that we’re donating some bandages to YGR
 
 * * *
 
-#### *Long Version:*  
+### *Long Version:*  
 I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
 
 In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought one of every product marketed for abrasions. The superficial road rash down the outside of his left leg made for a perfect experiment site, pitting the different bandages against each other.  Johnson & Johnson’s Tough Pads™ quickly emerged as the clear winner.
