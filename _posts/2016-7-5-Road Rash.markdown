@@ -216,7 +216,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-b7b8">Medline</td>
     <td class="tg-dzk6">4" x 4"</td>
     <td class="tg-b7b8">PVHS Home Medical Supply<br>($12/bandage)</td>
-    <td class="tg-b7b8">&lt;a href="www.google.com"&gt;Try Link&lt;a/&gt;</td>
+    <td class="tg-b7b8"><a href="www.google.com">Try Link</a></td>
     <td class="tg-b7b8">Have not tried or seen in person.</td>
   </tr>
 </table>
