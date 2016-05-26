@@ -66,6 +66,7 @@ Restock your supply.
 
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 
+{{#markdown}}
 '''html
 <dl>
 <style type="text/css">
@@ -138,6 +139,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 </table>
 </dl>
 '''
+{{/markdown}}
 
 Here’s some more information about hydrocolloid dressings for you nerds:  
 
