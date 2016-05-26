@@ -208,7 +208,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-yw4l">ConvaTec</td>
     <td class="tg-baqh">4" x 4"</td>
     <td class="tg-yw4l">City Drug<br>($9/bandage)</td>
-    <td class="tg-yw4l">[$32.99/box of 5 bandages][DD]</td>
+    <td class="tg-yw4l"><a href="http://www.amazon.com/DuoDerm-Signal-Pack/dp/B001LZV0O8/ref=sr_1_2_s_it?s=hpc&ie=UTF8&qid=1461906201&sr=1-2&keywords=duoderm+signal">$32.99/box of 5 bandages</a></td>
     <td class="tg-yw4l">Less flexible than the Tough Pads, but effective.</td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-b7b8">Medline</td>
     <td class="tg-dzk6">4" x 4"</td>
     <td class="tg-b7b8">PVHS Home Medical Supply<br>($12/bandage)</td>
-    <td class="tg-b7b8"><a href="www.google.com">Try Link</a></td>
+    <td class="tg-b7b8">
     <td class="tg-b7b8">Have not tried or seen in person.</td>
   </tr>
 </table>
