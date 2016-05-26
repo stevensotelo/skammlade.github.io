@@ -69,13 +69,13 @@ Restock your supply.
 <br>
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 
-| *Product* | *Brand* | *Size* | *Buy in Town* | *Buy online* | *Comments* |
+| *Product*   | *Brand*    | *Size*        | *Buy in Town*        | *Buy online* | *Comments* |
 |-----------|---------|--------|---------------|--------------|------------|
 | Tough Pads™ | Johnson & Johnson | 2.8" x 2.4" | n/a 	| [$37.99/6 boxes/4 pads each][TP]| Tried and true. Stock up. 	|
 | Hydrocolloid Dressings 	| ReliaMed 	| 4" x 4" 	| n/a 	| [$36.92/box of 10 bandages][HD] | I didn't try these until 7 days post-crash so cannot speak to their absorption. The edges of these bandages are beveled so I would suggest cutting the border edge off of the bottom bandage if you plan to overlap them to cover a large area. 	|
 | Blister Bandages 	| Kroger 	| 1" x 2" 	| King Soopers 	| n/a 	| These thinner dressings have a smaller absorption capacity than Tough Pads or the Hydrocolloid Dressings and are best used for patching a leaking edge or for a round-2 dressing on a small wound. 	|
 | DuoDERM® Signal™ 	| ConvaTec 	| 4" x 4" 	| City Drug ($9/bandage) 	| [$32.99/box of 5 bandages][DD] | Less flexible than the Tough Pads, but effective. 	|
-| Exuderm¨ 	| Medline 	| 4" x 4" 	| PVHS Home Medical Supply ($12/bandage) 	|  	| Have not tried or seen in person. 	|
+| Exuderm® 	| Medline 	| 4" x 4" 	| PVHS Home Medical Supply ($12/bandage) 	|  	| Have not tried or seen in person. 	|
 
 
 
