@@ -4,7 +4,7 @@ title: "A Better Treatment for Road Rash"
 date: 2016-5-25 
 categories: cycling
 ---
-###### Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
+##### Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
 
 * * *
 
@@ -30,6 +30,8 @@ In 2007 Will crashed in a crit. On his way home he stopped at Safeway and bought
 <br>
 <br>
 ![toughpads](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg)
+
+<img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg">
 <br>
 <br>
 Tough Pads, a hydrocolloid dressing, are impermeable and adhere to the skin to create a warm, moist, hypoxic environment ideal for wound healing.<sup>1</sup> The bandage contains gel-forming agents (colloids) which absorb wound exudate allowing the bandage to stay on for multiple days without disturbing the wound. Even better, the waterproof exterior and flexibility of the bandage allow you to bathe and move comfortably.
