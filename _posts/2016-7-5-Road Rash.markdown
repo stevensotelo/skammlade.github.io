@@ -76,7 +76,13 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 | DuoDERM® Signal™ 	| ConvaTec 	| 4" x 4" 	| City Drug<br>($9/bandage) 	| [$32.99/box of 5 bandages][DD] | Less flexible than the Tough Pads, but effective. 	|
 | Exuderm® 	| Medline 	| 4" x 4" 	| PVHS Home Medical Supply<br>($12/bandage) 	|  	| Have not tried or seen in person. 	|
 
-
+| Product 	| Brand 	| Size 	| Buy in Town 	| Buy online 	| Comments 	|
+|------------------------	|-------------------	|-------------	|------------------------------------------	|--------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Tough Pads™ 	| Johnson & Johnson 	| 2.8" x 2.4" 	| n/a 	| [$37.99/<br>6 boxes/<br>4 pads each] 	| Tried and true. Stock up. 	|
+| Hydrocolloid Dressings 	| ReliaMed 	| 4" x 4" 	| n/a 	| [$36.92/<br>box of 10 bandages] 	| I didn't try these until 7 days post-crash so cannot speak to their absorption. The edges of these bandages are beveled so I would suggest cutting the border edge off of the bottom bandage if you plan to overlap them to cover a large area. 	|
+| Blister Bandages 	| Kroger 	| 1" x 2" 	| King Soopers<br>($4/box of 6 bandages) 	| n/a 	| These thinner dressings have a smaller absorption capacity than Tough Pads or the Hydrocolloid Dressings and are best used for patching a leaking edge or for a round-2 dressing on a small wound. 	|
+| DuoDERM® Signal™ 	| ConvaTec 	| 4" x 4" 	| City Drug<br>($9/bandage) 	| [$32.99/<br>box of 5 bandages] 	| Less flexible than the Tough Pads, but effective. 	|
+| Exuderm® 	| Medline 	| 4" x 4" 	| PVHS Home Medical Supply<br>($12/bandage) 	|  	| Have not tried or seen in person. 	|
 
 [TP]: http://www.amazon.com/Band-Aid-Adhesive-Pads-Hydrocolloid-Tough/dp/B00FQR84M8/ref=sr_1_2_a_it?ie=UTF8&qid=1462292075&sr=8-2
 [HD]: http://www.amazon.com/gp/offer-listing/B0070P6JBW/ref=dp_olp_new_mbc?ie=UTF8&condition=new
