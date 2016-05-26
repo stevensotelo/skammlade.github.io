@@ -22,7 +22,7 @@ Use Tough Pads™ to treat road rash.
 We feel so strongly about this method that we’re donating some bandages to YGR’s Wounded Rider Project. We hope you don’t need to use them.
 
 * * *
-<br>
+
 #### *Long Version:*  
 I crashed in the Rio Road Race and lost a lot of skin after hitting the pavement at 37mph. This was a first for me, but fortunately my husband Will knows a thing or two about bike racing and its side effects.
 
@@ -37,9 +37,9 @@ Tough Pads, a hydrocolloid dressing, are impermeable and adhere to the skin to c
 Since that day in 2007 Will has been a Tough Pad evangelist and last week I shotgunned the kool-aid and smashed the can on my forehead.  
 
 After my crash Will drove me home where we assessed my wounds, then cleaned and patched up my skin quickly blowing through our stash of 17 Tough Pads. We were unable to cover everything so supplemented with “nonstick” gauze. We found the following protocol worked well:
-<br>
-<br>
-<br>
+
+* * *
+
 **Step 1: Clean**
 
 Rinse wounds with mild soap and warm water. Gently scrub out any road debris and dried blood using a clean washcloth. Pat dry. Shave hair around wounds.
@@ -63,9 +63,9 @@ After anywhere from 3-8 days you can remove the dressing revealing shiny new ski
 **Step 5: Tell your friends**
 
 Restock your supply.
-<br>
-<br>
-<br>
+
+* * * 
+
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 
 <style type="text/css">
@@ -80,12 +80,12 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 960px">
 <colgroup>
-<col style="width: 125px">
+<col style="width: 100px">
 <col style="width: 80px">
-<col style="width: 82px">
+<col style="width: 80px">
 <col style="width: 135px">
 <col style="width: 135px">
-<col style="width: 325px">
+<col style="width: 300px">
 </colgroup>
   <tr>
     <th class="tg-twxl">Product</th>
@@ -139,6 +139,32 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 
 
 
-[TP]: http://www.amazon.com/Band-Aid-Adhesive-Pads-Hydrocolloid-Tough/dp/B00FQR84M8/ref=sr_1_2_a_it?ie=UTF8&qid=1462292075&sr=8-2
-[HD]: http://www.amazon.com/gp/offer-listing/B0070P6JBW/ref=dp_olp_new_mbc?ie=UTF8&condition=new
-[DD]: http://www.amazon.com/DuoDerm-Signal-Pack/dp/B001LZV0O8/ref=sr_1_2_s_it?s=hpc&ie=UTF8&qid=1461906201&sr=1-2&keywords=duoderm+signal
+Here’s some more information about hydrocolloid dressings for you nerds:
+
+In the early 60s several key studies demonstrated that wounds heal faster when kept wet than when kept dry and allowed to scab<sup>2,3</sup>  laying the groundwork for the “moist wound healing” school of thought. In the early 80s hydrocolloids were developed and incorporated into wound care<sup>4,5</sup> as one of the first modern dressings. Following this a slurry of studies found occlusive hydrocolloid dressings healed wounds faster than gauze,<sup>6,7</sup> were less painful,<sup>8</sup> had lower instances of infection<sup>9,10</sup> and were less expensive given less labor time for a nurse or caregiver.<sup>8</sup> Many modern dressings are now utilized in wound management,<sup>1</sup> but gauze is still commonly used11 inspiring one medical professional to refer it as “archaic and barbaric” in an academic journal.<sup>12</sup> Having used nonstick gauze to supplement my Tough Pads I’d say the process felt nothing short of savage. 
+
+<sup>1</sup> Boateng, J. S., Matthews, K. H., Stevens, H. N., & Eccleston, G. M. (2008). Wound Healing Dressings and Drug Delivery Systems: A Review. Journal of Pharmaceutical Sciences, 97(8), 2892-2923. doi:10.1002/jps.21210
+
+<sup>2</sup> Winter, G. D. (1962). Formation of the Scab and the Rate of Epithelization of Superficial Wounds in the Skin of the Young Domestic Pig. Nature, 193(4812), 293–294. doi:10.1038/193293a0
+
+<sup>3</sup> Hinman, C. D., & Maibach, H. (1963). Effect of Air Exposure and Occlusion on Experimental Human Skin Wounds. Nature, 200(4904), 377-378. doi:10.1038/200377a0
+
+<sup>4</sup> Volke, Robert W. (1988). Patent No. US4743499 A. Washington, DC: U.S. Patent and 
+       Trademark Office.
+
+<sup>5</sup> Samuelson, Peter (1989). Patent No. US4867748 A. Washington, DC: U.S. Patent and 
+       Trademark Office.
+
+<sup>6</sup> Singh, A., Halder, S., Chumber, S., Misra, M. C., Sharma, L. K., Srivastava, A., & Menon, G. R. (2004). Meta-analysis of Randomized Controlled Trials on Hydrocolloid Occlusive Dressing Versus Conventional Gauze Dressing in the Healing of Chronic Wounds. Asian Journal of Surgery, 27(4), 326-332. doi:10.1016/s1015-9584(09)60061-0
+
+<sup>7</sup> Bouza C, Saz Z, Muñoz A, Amate JM. Efficacy of advanced dressings in the treatment of pressure ulcers: a systematic review. Journal of Wound Care. 2005:14(5):193-9.
+
+<sup>8</sup> Heyneman, A., Beele, H., Vanderwee, K., & Defloor, T. (2008). A systematic review of the use of hydrocolloids in the treatment of pressure ulcers. Journal of Clinical Nursing, 17(9), 1164-1173. doi:10.1111/j.1365-2702.2007.02218.x
+
+<sup>9</sup> Hutchinson, J., & Mcguckin, M. (1990). Occlusive dressings: A microbiologic and clinical review. American Journal of Infection Control, 18(4), 257-268. doi:10.1016/0196-6553(90)90167-q
+
+<sup>10</sup> Hutchinson, J., & Lawrence, J. (1991). Wound infection under occlusive dressings. Journal of Hospital Infection, 17(2), 83-94. doi:10.1016/0195-6701(91)90172-5
+
+<sup>11</sup> Armstrong M.H., Price P. (2004). Wet-to-dry dressings: Fact and fiction. Wounds 16(4):56–62.
+
+<sup>12</sup> Fleck, C. A. (2009). Why ‘‘Wet to Dry’’? Journal of the American College of Certified Wound Specialists, 1, 109-113. doi:10.1016/j.jcws.2009.09.003
