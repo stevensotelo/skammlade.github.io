@@ -23,3 +23,5 @@ strava_username: skammlade
 
 # Build settings
 markdown: kramdown
+
+encoding: UTF-8
