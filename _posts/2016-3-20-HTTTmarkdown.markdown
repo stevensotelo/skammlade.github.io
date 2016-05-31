@@ -25,7 +25,7 @@ I wanted to see how the racer turnout compared between men versus women so I plo
 I thought it was strange that 2013 had such a low showing. I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each date during the race time and found it was rideable weather for all of the races!
 <br>
 <br>
-![plot HTTT attendance by year and gender](/images/plot.weather.png "HTTT Weekly Weather")
+![plot HTTT attendance by year and gender](/images/plot.weather.pdf "HTTT Weekly Weather")
 <br>
 <br>
 You can play around with the [race data][results] yourself (pulled from [YGR google docs][YGR drive]). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
