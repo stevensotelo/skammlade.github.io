@@ -2,7 +2,7 @@
 title: "YGR Horsetooth Time Trial Series.rmd"
 author: "sara"
 date: "6 April 2016"
-output: html_document
+output: md_document
 ---
 ![HTdams](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/dams_handlebar.jpg)
 <br>
