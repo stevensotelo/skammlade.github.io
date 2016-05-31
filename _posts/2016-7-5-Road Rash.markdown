@@ -138,8 +138,11 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 <br>
 <br>
 ![leg](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg.jpg)
+
 These areas are covered in overlapping Tough Pads - 5 on the calf, 4 on the quad. Pads have been on for five days in this photo. Notice they are puffed up from absorbing wound exudate. We were conserving pads so missed the perimeters of the wounds. Ideally the quad would have 9 pads, the calf 8. The bandages leaked on the edges and have been patched with some blister bandages after supplementing with nonstick gauze on the first few days.
+
 ![arm](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/arm.jpg)
+
 (Left) Arm wound after cleaning day of crash. This wound had one Tough Pad on it but could have used 2-3. (Center) We replaced the Tough Pad with a DuoDERM bandage after four days and took this photo one day later. (Right) New skin, twelve days after the crash.
 <br>
 <br>
@@ -158,12 +161,10 @@ In the early 60s several key studies demonstrated that wounds heal faster when k
 <sup>3</sup> Hinman, C. D., & Maibach, H. (1963). Effect of Air Exposure and Occlusion on Experimental Human Skin Wounds. Nature, 200(4904), 377-378. doi:10.1038/200377a0  
 <br>
 <br>
-<sup>4</sup> Volke, Robert W. (1988). Patent No. US4743499 A. Washington, DC: U.S. Patent and 
-       Trademark Office.  
+<sup>4</sup> Volke, Robert W. (1988). Patent No. US4743499 A. Washington, DC: U.S. Patent and Trademark Office.  
 <br>
 <br>
-<sup>5</sup> Samuelson, Peter (1989). Patent No. US4867748 A. Washington, DC: U.S. Patent and 
-       Trademark Office.  
+<sup>5</sup> Samuelson, Peter (1989). Patent No. US4867748 A. Washington, DC: U.S. Patent and Trademark Office.  
 <br>
 <br>
 <sup>6</sup> Singh, A., Halder, S., Chumber, S., Misra, M. C., Sharma, L. K., Srivastava, A., & Menon, G. R. (2004). Meta-analysis of Randomized Controlled Trials on Hydrocolloid Occlusive Dressing Versus Conventional Gauze Dressing in the Healing of Chronic Wounds. Asian Journal of Surgery, 27(4), 326-332. doi:10.1016/s1015-9584(09)60061-0  
@@ -181,7 +182,7 @@ In the early 60s several key studies demonstrated that wounds heal faster when k
 <sup>10</sup> Hutchinson, J., & Lawrence, J. (1991). Wound infection under occlusive dressings. Journal of Hospital Infection, 17(2), 83-94. doi:10.1016/0195-6701(91)90172-5  
 <br>
 <br>
-<sup>11</sup> Armstrong M.H., Price P. (2004). Wet-to-dry dressings: Fact and fiction. Wounds 16(4):56–62.  
+<sup>11</sup> Armstrong M.H., Price P. (2004). Wet-to-dry dressings: Fact and fiction. Wounds 16(4):56–62. 
 <br>
 <br>
 <sup>12</sup> Fleck, C. A. (2009). Why ‘‘Wet to Dry’’? Journal of the American College of Certified Wound Specialists, 1, 109-113. doi:10.1016/j.jcws.2009.09.003  
