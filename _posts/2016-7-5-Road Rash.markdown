@@ -60,7 +60,8 @@ After anywhere from 3-8 days you can remove the dressing revealing shiny new ski
 
 **Step 5: Tell your friends**
 
-Restock your supply.
+Restock your supply.  
+<br>
 <br>
 <img align="left" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg_small.jpg">
 <br>
@@ -71,11 +72,16 @@ Restock your supply.
 ##### (Left) Arm wound after cleaning day of crash. This wound had one Tough Pad on it but could have used 2-3. (Center) We replaced the Tough Pad with a DuoDERM bandage after four days and took this photo one day later. (Right) New skin, twelve days after the crash.
 <br>
 <br>
+
 * * * 
 <br>
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
 <br>
 <br>
+
+
+
+<table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
@@ -144,6 +150,10 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
     <td class="tg-b7b8">Have not tried or seen in person.</td>
   </tr>
 </table>
+
+
+
+
 <br>
 <br>
 
