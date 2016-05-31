@@ -1,0 +1,80 @@
+---
+title: "YGR Horsetooth Time Trial Series"
+author: "sara"
+date: "6 April 2016"
+output: html_document
+---
+![HTdams](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/dams_handlebar.jpg)
+<br>
+<br>
+<br>
+Fort Collins, CO is home to a thriving grassroots racing scene. Your Group Ride hosts an annual time trial every Tuesday in April known as the [Horsetooth Time Trial Series](http://yourgroupride.com/index.php/local-races/horsetooth-time-trial-series). The hilly **14.35 mile** course runs along Horsetooth Reservoire and Horsetooth Mountain Park climbing a total of **1,336 feet**.
+<br>
+<br>
+<br>
+<iframe style="width:100%;height:600px;" src="https://veloviewer.com/segments/1213731/embed2" frameborder="0" scrolling="no"></iframe>  
+<br>
+<br>
+<br>
+I wanted to see how the racer turnout compared between men versus women so I plotted race data from 2011-2015. Last year had the greatest turnout for female cyclsts so far with **34 racers** representing **17.5%** of total racers.
+
+```{r fig.width = 8, fig.height=4, fig.align='center', echo=FALSE, message=FALSE, warning=FALSE}
+source('plot.yeargender.HTTT.R')
+```
+<br>
+I thought it was a little strange that 2013 had such a low showing so I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each week during the race time.
+<br>
+<br>
+<br>
+```{r fig.width = 10, fig.height=5, fig.align='center', echo=FALSE, message=FALSE, warning=FALSE}
+source('plot.weather.HTTT.R')
+p
+```
+
+#### Top 5 times from each category to date: 
+
+##### Female Aero 
+```{r echo=FALSE}
+options(width=10000)
+HTTT <- read.csv("HTTT.csv")
+f.aero <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Female' & HTTT$Division=='Aero'), ] 
+f.aero <- subset(f.aero, select=c(Date, LName, FName, Time))
+head(f.aero, 5)
+```
+#####Female Eddy 
+```{r echo=FALSE}
+HTTT <- read.csv("HTTT.csv")
+f.eddy <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Female' & HTTT$Division=='Eddy'), ]
+f.eddy <- subset(f.eddy, select=c(Date, LName, FName, Time))
+head(f.eddy, 5)
+```
+#####Female Kerkove
+```{r echo=FALSE}
+HTTT <- read.csv("HTTT.csv")
+f.kerkove <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Female' & HTTT$Division=='Kerkove'), ]
+f.kerkove <- subset(f.kerkove, select=c(Date, LName, FName, Time))
+head(f.kerkove, 5)
+```
+#####Male Aero
+```{r echo=FALSE}
+HTTT <- read.csv("HTTT.csv")
+m.aero <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Male' & HTTT$Division=='Aero'), ]
+m.aero <- subset(m.aero, select=c(Date, LName, FName, Time))
+head(m.aero, 5)
+```
+#####Male Eddy 
+```{r echo=FALSE}
+HTTT <- read.csv("HTTT.csv")
+m.eddy <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Male' & HTTT$Division=='Eddy'), ]
+m.eddy <- subset(m.eddy, select=c(Date, LName, FName, Time))
+head(m.eddy, 5)
+```
+#####Male Kerkove
+```{r echo=FALSE}
+HTTT <- read.csv("HTTT.csv")
+m.kerkove <- HTTT[which(HTTT$Year>'2011' & HTTT$Sex=='Male' & HTTT$Division=='Kerkove'), ]
+m.kerkove <- subset(m.kerkove, select=c(Date, LName, FName, Time))
+head(m.kerkove, 5)
+```
+
+You can play around with the [race data](https://github.com/skammlade/projects/blob/master/HTTT/HTTT.csv) yourself (pulled from [YGR google docs](https://docs.google.com/spreadsheets/d/1dNnqC5YTzURecVyo8U4a_RAv-KwQoJtCwnjseIOjg1g/edit?pref=2&pli=1#gid=234516618)). *Note: the 2011 course differs from the 2012-2015 course and therefore times were omitted.
