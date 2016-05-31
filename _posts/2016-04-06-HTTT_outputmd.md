@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Horsetooth Time Trial Series"
+date: 2016-5-31 
+categories: cycling
+---
 ![HTdams](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/dams_handlebar.jpg)
 <br> <br> <br> Fort Collins, CO is home to a thriving grassroots racing
 scene. Your Group Ride hosts an annual time trial every Tuesday in April
