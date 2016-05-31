@@ -20,7 +20,7 @@ representing **21.25%** of total racers.
 
 <img align="center" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/plot.yeargender.jpg">
 <br> 
-I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each date during the race time to see if that would explain the low attendance in 2013
+I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each date during the race time to see if that would explain the low attendance in 2013.
  <br> <br> <br>
 <img align="center" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/plot.weather.jpg">
 <br>
