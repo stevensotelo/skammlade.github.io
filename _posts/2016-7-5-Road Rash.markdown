@@ -137,7 +137,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 </table>
 <br>
 <br>
-![leg](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg.jpg)
+![leg](/images/leg.jpg "leg")
 <br>
 These areas are covered in overlapping Tough Pads - 5 on the calf, 4 on the quad. Pads have been on for five days in this photo. Notice they are puffed up from absorbing wound exudate. We were conserving pads so missed the perimeters of the wounds. Ideally the quad would have 9 pads, the calf 8. The bandages leaked on the edges and have been patched with some blister bandages after supplementing with nonstick gauze on the first few days.
 <br>
