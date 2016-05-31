@@ -5,18 +5,19 @@ date: 2016-5-31
 categories: cycling
 ---
 ![HTdams](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/dams_handlebar.jpg)
-<br> <br> <br> Fort Collins, CO is home to a thriving grassroots racing
-scene. Your Group Ride hosts an annual time trial every Tuesday in April
-known as the [Horsetooth Time Trial
-Series](http://yourgroupride.com/index.php/local-races/horsetooth-time-trial-series).
-The hilly **14.35 mile** course runs along Horsetooth Reservoire and
-Horsetooth Mountain Park climbing a total of **1,336 feet**. <br> <br>
+<br> 
+<br> 
+<br> 
+Fort Collins, CO is home to a thriving grassroots racing scene. Your Group Ride hosts an annual time trial every Tuesday in April known as the [Horsetooth Time Trial Series](http://yourgroupride.com/index.php/local-races/horsetooth-time-trial-series). The hilly **14.35 mile** course runs along Horsetooth Reservoire and
+Horsetooth Mountain Park climbing a total of **1,336 feet**. 
+<br> 
+<br>
 <br>
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/segments/1213731/embed2" frameborder="0" scrolling="no"></iframe>  
-<br> <br> <br> I wanted to see how the racer turnout compared between
-men versus women so I plotted race data from 2011-2015. Last year had
-the greatest turnout for female cyclsts so far with **34 racers**
-representing **21.25%** of total racers.
+<br> 
+<br> 
+<br> 
+I wanted to see how the racer turnout compared between men versus women so I plotted race data from 2011-2015. Last year had the greatest turnout for female cyclsts so far with **34 racers** representing **21.25%** of total racers.
 
 ![plot](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/plot.yeargender.jpg")
 <br> 
