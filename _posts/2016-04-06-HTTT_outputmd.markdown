@@ -18,13 +18,11 @@ men versus women so I plotted race data from 2011-2015. Last year had
 the greatest turnout for female cyclsts so far with **34 racers**
 representing **21.25%** of total racers.
 
-<img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/unnamed-chunk-2-1.jpg">
-<br> I thought it was a little strange that 2013 had such a low showing.
-I pulled some temperature data from
-[WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71)
-for each date during the race time and found it was rideable weather for
-all of the races! <br> <br> <br>
-<img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/unnamed-chunk-1-1.jpg">
+<img align="center" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/plot.yeargender.jpg">
+<br> 
+I pulled some temperature data from [WeatherUnderground](https://www.wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCOFORTC71) for each date during the race time to see if that would explain the low attendance in 2013
+ <br> <br> <br>
+<img align="center" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/plot.weather.jpg">
 <br>
 
 #### Top 5 times from each category to date:
