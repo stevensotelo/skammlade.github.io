@@ -61,7 +61,16 @@ After anywhere from 3-8 days you can remove the dressing revealing shiny new ski
 **Step 5: Tell your friends**
 
 Restock your supply.
-
+<br>
+<img align="left" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg_small.jpg">
+<br>
+##### These areas are covered in overlapping Tough Pads - 5 on the calf, 4 on the quad. Pads have been on for five days in this photo. Notice they are puffed up from absorbing wound exudate. We were conserving pads so missed the perimeters of the wounds. Ideally the quad would have 9 pads, the calf 8. The bandages leaked on the edges and have been patched with some blister bandages after supplementing with nonstick gauze on the first few days.
+<br>
+<img align="left" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/arm_small.jpg">
+<br>
+##### (Left) Arm wound after cleaning day of crash. This wound had one Tough Pad on it but could have used 2-3. (Center) We replaced the Tough Pad with a DuoDERM bandage after four days and took this photo one day later. (Right) New skin, twelve days after the crash.
+<br>
+<br>
 * * * 
 <br>
 Tough Pads are no longer carried at Safeway and are difficult to find in stores.  Below we have identified similar products and where to find them as well as instructions and photos about how we used them. The best deals are buying in bulk online, but we have found some products you can buy in person here in Fort Collins if you are in a bind. 
@@ -137,15 +146,7 @@ Tough Pads are no longer carried at Safeway and are difficult to find in stores.
 </table>
 <br>
 <br>
-<img align="center" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg_small.jpg">
-<br>
-#####These areas are covered in overlapping Tough Pads - 5 on the calf, 4 on the quad. Pads have been on for five days in this photo. Notice they are puffed up from absorbing wound exudate. We were conserving pads so missed the perimeters of the wounds. Ideally the quad would have 9 pads, the calf 8. The bandages leaked on the edges and have been patched with some blister bandages after supplementing with nonstick gauze on the first few days.
-<br>
-![arm](https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/arm.jpg "arm")
-<br>
-(Left) Arm wound after cleaning day of crash. This wound had one Tough Pad on it but could have used 2-3. (Center) We replaced the Tough Pad with a DuoDERM bandage after four days and took this photo one day later. (Right) New skin, twelve days after the crash.
-<br>
-<br>
+
 Here’s some more information about hydrocolloid dressings for you nerds:  
 <br>
 <br>
@@ -186,4 +187,5 @@ In the early 60s several key studies demonstrated that wounds heal faster when k
 <br>
 <br>
 <sup>12</sup> Fleck, C. A. (2009). Why ‘‘Wet to Dry’’? Journal of the American College of Certified Wound Specialists, 1, 109-113. doi:10.1016/j.jcws.2009.09.003  
+<br>
 <br>
