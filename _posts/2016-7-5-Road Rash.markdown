@@ -64,11 +64,11 @@ Restock your supply.
 <br>
 <br>
 <img align="left" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/leg_small.jpg">
-<br>
+
 ##### These areas are covered in overlapping Tough Pads - 5 on the calf, 4 on the quad. Pads have been on for five days in this photo. Notice they are puffed up from absorbing wound exudate. We were conserving pads so missed the perimeters of the wounds. Ideally the quad would have 9 pads, the calf 8. The bandages leaked on the edges and have been patched with some blister bandages after supplementing with nonstick gauze on the first few days.
 <br>
 <img align="left" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/arm_small.jpg">
-<br>
+
 ##### (Left) Arm wound after cleaning day of crash. This wound had one Tough Pad on it but could have used 2-3. (Center) We replaced the Tough Pad with a DuoDERM bandage after four days and took this photo one day later. (Right) New skin, twelve days after the crash.
 <br>
 <br>
