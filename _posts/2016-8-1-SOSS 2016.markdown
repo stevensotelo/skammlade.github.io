@@ -4,9 +4,9 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
-
-
-<script async src="//jsfiddle.net/skammlade/f5ZLn/959/embed/"></script>
+<div id="highcharts-ovipab">
+    <script async src="//jsfiddle.net/skammlade/49to4wpe/embed/"></script>
+</div>
 
 
 <iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=UneloquentSextiparaKenons" ></iframe>
