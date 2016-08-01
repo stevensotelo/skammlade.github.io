@@ -4,7 +4,7 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
-copy and paste javascript and html
+copy and paste javascript and html remove gunction
 
 
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
@@ -17,7 +17,7 @@ copy and paste javascript and html
 
 <script type="text/javascript">
 
-$(function () {
+
 
     $.getJSON('https://www.highcharts.com/samples/data/jsonp.php?filename=us-population-density.json&callback=?', function (data) {
 
@@ -81,6 +81,6 @@ $(function () {
             }]
         });
     });
-});
+
 
 </script>
