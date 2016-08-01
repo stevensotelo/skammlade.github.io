@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Student Organic Seed Symposium: 5th Anniversary"
-date: 2016-5-25 
+date: 2016-8-1 
 categories: seed
 ---
 ##### Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
@@ -12,7 +12,59 @@ categories: seed
 
 <img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg">
 
+<iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=UneloquentSextiparaKenons" ></iframe>
+
 
 <script async src="//jsfiddle.net/skammlade/f5ZLn/959/embed/"></script>
 
 <script async src="//jsfiddle.net/skammlade/qtg5ak4p/embed/"></script>
+
+
+<div id="visualization" style="margin: 1em"> </div>
+
+'''
+google.load('visualization', '1', {'packages': ['geochart']});
+google.setOnLoadCallback(drawVisualization);
+
+function drawVisualization() {
+  var data = google.visualization.arrayToDataTable([
+    ['State', 'Participants'],
+    ['CA', 10],
+    ['CO', 4],
+    ['FL', 1],
+    ['GA', 5],
+    ['HI', 5],
+    ['IL', 2],
+    ['IN', 2],
+    ['MA', 1],
+    ['MD', 1],
+    ['MN', 6],
+    ['NC', 2],
+    ['NH', 4],
+    ['NJ', 2],
+    ['NY', 11],
+    ['OR', 5],
+    ['PA', 2],
+    ['TN', 3],
+    ['TX', 6],
+    ['VA', 1],
+    ['VT', 1],
+    ['WA', 17],
+    ['WI', 39],
+    ['WV', 4]
+  ]);
+  
+  var opts = {
+    region: 'US',
+    displayMode: 'regions',
+    resolution: 'provinces',
+    width: 640, 
+    height: 480,
+    colorAxis: {colors: ['#B8FFEC', '#056839']},
+    
+  };
+  var geochart = new google.visualization.GeoChart(
+      document.getElementById('visualization'));
+  geochart.draw(data, opts);
+};
+'''
