@@ -4,13 +4,10 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
-##### Written exclusively for [Your Group Ride](http://yourgroupride.com/index.php/component/content/article/60-news-and-events/885-a-better-treatment-for-road-rash?Itemid=107)
 
-* * *
 
 <script async src="//jsfiddle.net/skammlade/f5ZLn/959/embed/"></script>
 
-<img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/toughpads_small.jpg">
 
 <iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=UneloquentSextiparaKenons" ></iframe>
 
