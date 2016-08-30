@@ -4,20 +4,10 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
+<img align="right" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/SOSSymposiumLogoSmall.jpg">
 The [Student Organic Seed Symposium](http://www.soseeds.org/) is an annual event organized by and for graduate students across the country who are interested in organic plant breeding and sustainable agricultural systems. In 2012, a group of graduate students working in plant breeding for organic agricultural systems organized the first Student Organic Seed Symposium, held in Hardwick, Vermont at High Mowing Seeds. The gathering brought together students from multiple universities with public and private breeders, organic seed advocates, and seed industry representatives. While interest in organic research has grown exponentially in the last decade, recognition of the importance of organic seed has lagged behind. The purpose of this meeting was to bring together the disparate people working to advance this crucial aspect of organic agriculture. In particular, it aimed to create a network of support, encouragement, and training for graduate students interested in organic food and seed systems.  The 3-day event was a great success and a community was born. In the following years, this event has grown and been held in Washington State, New York, and Wisconsin.
 
 This year I helped plan SOSS2016 which was hosted by [Johnny's Selected Seeds](http://www.johnnyseeds.com/?source=google_johnny_seeds&source=google_johnny_seeds&gclid=Cj0KEQjw3ZS-BRD1xu3qw8uS2s4BEiQA2bcfMz571x6iLx7Mjn6lxZGcmfgxndoZtIuLAQ3W4JemO2oaAoXH8P8HAQ). SOSS has always aimed to keep the participation size small, accepting ~30 students a year, and limiting the total group size (e.g. speakers, special guests) to 50 people.
-
-| Year 	| Host                        	| Location         	| No. of Students 	|
-|------	|-----------------------------	|------------------	|-----------------	|
-| 2012 	| High Mowing Organic Seeds   	| Hardwick, VT     	| 20              	|
-| 2013 	| Washington State University 	| Mount Vernon, WA 	| 29              	|
-| 2014 	| Cornell University          	| Ithaca, NY       	| 27              	|
-| 2015 	| UW-Madison                  	| Madison, WI      	| 31              	|
-| 2016 	| Johnny's Selected Seeds     	| Waterville, ME   	| 29              	|
-
-
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
