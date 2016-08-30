@@ -8,13 +8,64 @@ The [Student Organic Seed Symposium](http://www.soseeds.org/) is an annual event
 
 This year I helped plan SOSS2016 which was hosted by [Johnny's Selected Seeds](http://www.johnnyseeds.com/?source=google_johnny_seeds&source=google_johnny_seeds&gclid=Cj0KEQjw3ZS-BRD1xu3qw8uS2s4BEiQA2bcfMz571x6iLx7Mjn6lxZGcmfgxndoZtIuLAQ3W4JemO2oaAoXH8P8HAQ). SOSS has always aimed to keep the participation size small, accepting ~30 students a year, and limiting the total group size (e.g. speakers, special guests) to 50 people.
 
-| Year | Host                        | Location         | No. of Students |
-|------|-----------------------------|------------------|-----------------|
-| 2012 | High Mowing Organic Seeds   | Hardwick, VT     | 20              |
-| 2013 | Washington State University | Mount Vernon, WA | 29              |
-| 2014 | Cornell University          | Ithaca, NY       | 27              |
-| 2015 | UW-Madison                  | Madison, WI      | 31              |
-| 2016 | Johnny's Selected Seeds     | Waterville, ME   | 29              |
+| Year 	| Host                        	| Location         	| No. of Students 	|
+|------	|-----------------------------	|------------------	|-----------------	|
+| 2012 	| High Mowing Organic Seeds   	| Hardwick, VT     	| 20              	|
+| 2013 	| Washington State University 	| Mount Vernon, WA 	| 29              	|
+| 2014 	| Cornell University          	| Ithaca, NY       	| 27              	|
+| 2015 	| UW-Madison                  	| Madison, WI      	| 31              	|
+| 2016 	| Johnny's Selected Seeds     	| Waterville, ME   	| 29              	|
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;border-top-width:1px;border-bottom-width:1px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;border-top-width:1px;border-bottom-width:1px;}
+.tg .tg-9qtj{font-weight:bold;background-color:#7a522e;color:#ffffff;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-9qtj">Year</th>
+    <th class="tg-9qtj">Host</th>
+    <th class="tg-9qtj">Location</th>
+    <th class="tg-9qtj">No. of Students</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2012</td>
+    <td class="tg-yw4l">High Mowing Organic Seeds</td>
+    <td class="tg-yw4l">Hardwick, VT</td>
+    <td class="tg-yw4l">20</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2013</td>
+    <td class="tg-yw4l">Washington State University</td>
+    <td class="tg-yw4l">Mount Vernon, WA</td>
+    <td class="tg-yw4l">29</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2014</td>
+    <td class="tg-yw4l">Cornell University</td>
+    <td class="tg-yw4l">Ithaca, NY</td>
+    <td class="tg-yw4l">27</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2015</td>
+    <td class="tg-yw4l">UW-Madison</td>
+    <td class="tg-yw4l">Madison, WI</td>
+    <td class="tg-yw4l">31</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2016</td>
+    <td class="tg-yw4l">Johnny's Selected Seeds</td>
+    <td class="tg-yw4l">Waterville, ME</td>
+    <td class="tg-yw4l">29</td>
+  </tr>
+</table>
+Extra options...    Preview
+How to use it?
+
+Using the Table menu set the 
+
 
 <div id="visualization" style="margin: 1em"> </div>
 
