@@ -4,36 +4,56 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
-copy and paste html remove gunction
+copy and paste html googlechart
 
 
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-      function drawChart() {
-        var data = google.visualization.arrayToDataTable([
-          ['Year', 'Sales', 'Expenses'],
-          ['2013',  1000,      400],
-          ['2014',  1170,      460],
-          ['2015',  660,       1120],
-          ['2016',  1030,      540]
-        ]);
+<div id="visualization" style="margin: 1em"> </div>
 
-        var options = {
-          title: 'Company Performance',
-          hAxis: {title: 'Year',  titleTextStyle: {color: '#333'}},
-          vAxis: {minValue: 0}
-        };
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+ <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('visualization', '1', {'packages': ['geochart']});
+google.setOnLoadCallback(drawVisualization);
 
-        var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
-      }
-    </script>
-  </head>
-  <body>
-    <div id="chart_div" style="width: 900px; height: 500px;"></div>
-  </body>
-</html>
+function drawVisualization() {
+  var data = google.visualization.arrayToDataTable([
+    ['State', 'Participants'],
+    ['CA', 10],
+    ['CO', 4],
+    ['FL', 1],
+    ['GA', 5],
+    ['HI', 5],
+    ['IL', 2],
+    ['IN', 2],
+    ['MA', 1],
+    ['MD', 1],
+    ['MN', 6],
+    ['NC', 2],
+    ['NH', 4],
+    ['NJ', 2],
+    ['NY', 11],
+    ['OR', 5],
+    ['PA', 2],
+    ['TN', 3],
+    ['TX', 6],
+    ['VA', 1],
+    ['VT', 1],
+    ['WA', 17],
+    ['WI', 39],
+    ['WV', 4]
+  ]);
+  
+  var opts = {
+    region: 'US',
+    displayMode: 'regions',
+    resolution: 'provinces',
+    width: 640, 
+    height: 480,
+    colorAxis: {colors: ['#B8FFEC', '#056839']},
+    
+  };
+  var geochart = new google.visualization.GeoChart(
+      document.getElementById('visualization'));
+  geochart.draw(data, opts);
+};
+</script>
