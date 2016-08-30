@@ -4,11 +4,11 @@ title: "Student Organic Seed Symposium: 5th Anniversary"
 date: 2016-8-1 
 categories: seed
 ---
-<img align="middle" src="https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/SOSSymposiumLogoSmall.jpg">
+!(https://raw.githubusercontent.com/skammlade/skammlade.github.io/master/images/SOSSymposiumLogoSmall.jpg)
 
 The [Student Organic Seed Symposium](http://www.soseeds.org/) is an annual event organized by and for graduate students across the country who are interested in organic plant breeding and sustainable agricultural systems. In 2012, a group of graduate students working in plant breeding for organic agricultural systems organized the first Student Organic Seed Symposium, held in Hardwick, Vermont at High Mowing Seeds. The gathering brought together students from multiple universities with public and private breeders, organic seed advocates, and seed industry representatives. While interest in organic research has grown exponentially in the last decade, recognition of the importance of organic seed has lagged behind. The purpose of this meeting was to bring together the disparate people working to advance this crucial aspect of organic agriculture. In particular, it aimed to create a network of support, encouragement, and training for graduate students interested in organic food and seed systems.  The 3-day event was a great success and a community was born. In the following years, this event has grown and been held in Washington State, New York, and Wisconsin.
 
-This year I helped plan SOSS2016 which was hosted by [Johnny's Selected Seeds](http://www.johnnyseeds.com/?source=google_johnny_seeds&source=google_johnny_seeds&gclid=Cj0KEQjw3ZS-BRD1xu3qw8uS2s4BEiQA2bcfMz571x6iLx7Mjn6lxZGcmfgxndoZtIuLAQ3W4JemO2oaAoXH8P8HAQ). SOSS has always aimed to keep the participation size small, accepting ~30 students a year, and limiting the total group size (e.g. speakers, special guests) to 50 people.
+This year I helped plan SOSS2016 hosted by the good folks at [Johnny's Selected Seeds](http://www.johnnyseeds.com/?source=google_johnny_seeds&source=google_johnny_seeds&gclid=Cj0KEQjw3ZS-BRD1xu3qw8uS2s4BEiQA2bcfMz571x6iLx7Mjn6lxZGcmfgxndoZtIuLAQ3W4JemO2oaAoXH8P8HAQ). SOSS has always aimed to keep the event small, allowing for more opportunities for dialoge between students and speakers. Each year about 30 students have been accepted and the total group size (e.g. speakers, special guests) has been limited to 50 people.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
@@ -58,12 +58,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
 <script type="text/javascript" charset="utf-8">var TgTableSort=window.TgTableSort||function(n,t){"use strict";function r(n,t){for(var e=[],o=n.childNodes,i=0;i<o.length;++i){var u=o[i];if("."==t.substring(0,1)){var a=t.substring(1);f(u,a)&&e.push(u)}else u.nodeName.toLowerCase()==t&&e.push(u);var c=r(u,t);e=e.concat(c)}return e}function e(n,t){var e=[],o=r(n,"tr");return o.forEach(function(n){var o=r(n,"td");t>=0&&t<o.length&&e.push(o[t])}),e}function o(n){return n.textContent||n.innerText||""}function i(n){return n.innerHTML||""}function u(n,t){var r=e(n,t);return r.map(o)}function a(n,t){var r=e(n,t);return r.map(i)}function c(n){var t=n.className||"";return t.match(/\S+/g)||[]}function f(n,t){return-1!=c(n).indexOf(t)}function s(n,t){f(n,t)||(n.className+=" "+t)}function d(n,t){if(f(n,t)){var r=c(n),e=r.indexOf(t);r.splice(e,1),n.className=r.join(" ")}}function v(n){d(n,L),d(n,E)}function l(n,t,e){r(n,"."+E).map(v),r(n,"."+L).map(v),e==T?s(t,E):s(t,L)}function g(n){return function(t,r){var e=n*t.str.localeCompare(r.str);return 0==e&&(e=t.index-r.index),e}}function h(n){return function(t,r){var e=+t.str,o=+r.str;return e==o?t.index-r.index:n*(e-o)}}function m(n,t,r){var e=u(n,t),o=e.map(function(n,t){return{str:n,index:t}}),i=e&&-1==e.map(isNaN).indexOf(!0),a=i?h(r):g(r);return o.sort(a),o.map(function(n){return n.index})}function p(n,t,r,o){for(var i=f(o,E)?N:T,u=m(n,r,i),c=0;t>c;++c){var s=e(n,c),d=a(n,c);s.forEach(function(n,t){n.innerHTML=d[u[t]]})}l(n,o,i)}function x(n,t){var r=t.length;t.forEach(function(t,e){t.addEventListener("click",function(){p(n,r,e,t)}),s(t,"tg-sort-header")})}var T=1,N=-1,E="tg-sort-asc",L="tg-sort-desc";return function(t){var e=n.getElementById(t),o=r(e,"tr"),i=o.length>0?r(o[0],"td"):[];0==i.length&&(i=r(o[0],"th"));for(var u=1;u<o.length;++u){var a=r(o[u],"td");if(a.length!=i.length)return}x(e,i)}}(document);document.addEventListener("DOMContentLoaded",function(n){TgTableSort("tg-er9f8")});</script>
 
 
-
-
-
-
-
-
+Since its inception, SOSS has seen a total attendance of *137 students* representing 23 states as well as Canada and Germany. Many of these students are coming from institutions which have well-established plant breeding programs with UW-Madison, recent recipient of the first [Clif Bar and Organic Valley Endowed Chair in Plant Breeding for Organic Agriculture](http://ecals.cals.wisc.edu/2016/02/14/cals-bill-tracy-named-nations-first-endowed-chair-in-organic-agriculture/), not surprisingly having the largest representation.
 
 <div id="visualization" style="margin: 1em"> </div>
 
@@ -116,7 +111,7 @@ function drawVisualization() {
 };
 </script>
 
-
+<iframe width="523.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/143IdA5PL4RBt4xwYlIHT0_TcOcphRqixP1SJAfppu74/pubchart?oid=1004386394&amp;format=interactive"></iframe>
 
 You can view photos from the event and past events on [flickr](https://www.flickr.com/photos/135390759@N08/albums).
 
