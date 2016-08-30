@@ -61,4 +61,4 @@ function drawVisualization() {
 </script>
 
 You can view photos from the event here 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/135390759@N08/albums/72157672394836915" title="2016 - Waterville, ME"><img src="https://c3.staticflickr.com/9/8634/28672121450_4d97f291b1_t.jpg" width="100" height="75" alt="2016 - Waterville, ME"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/135390759@N08/albums/72157672394836915" title="2016 - Waterville, ME"><img src="https://c3.staticflickr.com/9/8634/28672121450_4d97f291b1.jpg" width="500" height="375" alt="2016 - Waterville, ME"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
