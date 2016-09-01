@@ -43,7 +43,7 @@
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  d3.csv("stocks.csv", function(error, data) {
+  d3.csv("GrainsYearItem.csv", function(error, data) {
 
     data.forEach(function(d) {
       d.group = d.ItemName
