@@ -4,8 +4,8 @@
       formatDate = function(d) { return formatYear(d.getFullYear()); };
 	  
   var margin = {top: 40, right: 20, bottom: 40, left: 60},
-      width = 960 - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom,
+      width = 9600 - margin.left - margin.right,
+      height = 5000 - margin.top - margin.bottom,
       lineheight = height;
 
   var yScaleStacked = d3.scale.linear().range([height, 0]),
