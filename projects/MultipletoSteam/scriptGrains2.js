@@ -14,7 +14,7 @@
       .scale(xScale)
       .orient("bottom")
       .ticks(d3.time.years)
-      .tickFormat(d.date);
+      .tickFormat(Year);
       
   var stack = d3.layout.stack()
       .offset("wiggle")
