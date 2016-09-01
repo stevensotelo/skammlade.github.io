@@ -1,5 +1,8 @@
 (function() {
-
+  var parseDate = d3.time.format("%b %Y").parse,
+      formatYear = d3.format("02d"),
+      formatDate = function(d) { return formatYear(d.getFullYear()); };
+	  
   var margin = {top: 40, right: 20, bottom: 40, left: 60},
       width = 960 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom,
@@ -14,7 +17,7 @@
       .scale(xScale)
       .orient("bottom")
       .ticks(d3.time.years)
-      .tickFormat(Year);
+      .tickFormat(formatDate);
       
   var stack = d3.layout.stack()
       .offset("wiggle")
