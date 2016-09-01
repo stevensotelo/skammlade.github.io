@@ -17,16 +17,16 @@
       .scale(xScale)
       .orient("bottom")
       .ticks(d3.time.years)
-      .tickFormat(formatDate);
+      .tickFormat(Year);
       
   var stack = d3.layout.stack()
       .offset("wiggle")
       .values(function(d) { return d.values; })
       .x(function(d) { return d.date; })
-      .y(function(d) { return d.value; });
+      .y(function(d) { return d.AvgValue; });
       
   var nest = d3.nest()
-      .key(function(d) { return d.group; });
+      .key(function(d) { return d.ItemName; });
 
   var areaStacked = d3.svg.area()
       .interpolate("cardinal")
@@ -38,7 +38,7 @@
       .interpolate("cardinal")
       .x(function(d) { return xScale(d.date); })
       .y0(function(d) { return lineheight; })
-      .y1(function(d) { return yScaleMultiples(d.value); });
+      .y1(function(d) { return yScaleMultiples(d.AvgValue); });
 
   var svg = d3.select("body").append("svg")
       .attr("width", width + margin.left + margin.right)
@@ -49,9 +49,9 @@
   d3.csv("GrainsYearItem.csv", function(error, data) {
 
     data.forEach(function(d) {
-      d.group = d.ItemName
+      d.ItemName = d.ItemName
       d.date = d.Year;
-      d.value = +d.AvgValue;
+      d.AvgValue = +d.AvgValue;
     });
 
     data.sort(function(a, b) {
@@ -65,7 +65,7 @@
     
     xScale.domain(d3.extent(data, function(d) { return d.date; }));
     yScaleStacked.domain([0, d3.max(data, function(d) { return d.y0 + d.y; })]);
-    yScaleMultiples.domain([0, d3.max(data, function(d) { return d.value; })]).range([lineheight, 0]);
+    yScaleMultiples.domain([0, d3.max(data, function(d) { return d.AvgValue; })]).range([lineheight, 0]);
 
     var group = svg.selectAll(".group")
         .data(layers)
