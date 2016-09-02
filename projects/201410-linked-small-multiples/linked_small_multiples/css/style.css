@@ -40,7 +40,7 @@ svg {
 }
 
 .area {
-  fill: #cec6b9;
+  fill: #B9B2A6;
 }
 
 .line {
@@ -50,7 +50,7 @@ svg {
 }
 
 .title {
-  font-size: 12px;
+  font-size: 20px;
 }
 
 .axis line, .grid line {
