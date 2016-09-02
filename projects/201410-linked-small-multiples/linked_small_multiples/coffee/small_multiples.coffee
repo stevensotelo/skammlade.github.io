@@ -126,7 +126,7 @@ SmallMultiples = () ->
         .attr("class", "title")
         .attr("text-anchor", "middle")
         .attr("y", height)
-        .attr("dy", margin.bottom / 2 - 25)
+        .attr("dy", "1.3em")
         .attr("x", width / 2)
         .text((c) -> c.key)
 
