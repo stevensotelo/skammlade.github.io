@@ -1,6 +1,6 @@
 
 .container {
-  width: 950px;
+  width: 1050px;
 }
 
 h1 {
@@ -51,6 +51,7 @@ svg {
 
 .title {
   font-size: 12px;
+  font-weight: bold;
 }
 
 .axis line, .grid line {
