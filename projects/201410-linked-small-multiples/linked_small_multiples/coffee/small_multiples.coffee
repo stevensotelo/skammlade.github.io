@@ -59,7 +59,7 @@ SmallMultiples = () ->
   # ---
   setupScales = (data) ->
     maxY = d3.max(data, (c) -> d3.max(c.values, (d) -> yValue(d)))
-    maxY = maxY + (maxY * 1/4)
+    maxY = maxY + (maxY * 1/8)
     yScale.domain([0,maxY])
     extentX = d3.extent(data[0].values, (d) -> xValue(d))
     xScale.domain(extentX)
@@ -126,7 +126,7 @@ SmallMultiples = () ->
         .attr("class", "title")
         .attr("text-anchor", "middle")
         .attr("y", height)
-        .attr("dy", margin.bottom / 2 + 5)
+        .attr("dy", margin.top / 2 + 5)
         .attr("x", width / 2)
         .text((c) -> c.key)
 

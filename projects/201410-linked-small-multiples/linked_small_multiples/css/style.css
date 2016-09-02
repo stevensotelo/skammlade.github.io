@@ -24,7 +24,7 @@ h1 {
 }
 
 .chart {
-  float: right;
+  float: left;
   padding-right: 5px;
   padding-bottom: 5px;
   padding-top:0;
