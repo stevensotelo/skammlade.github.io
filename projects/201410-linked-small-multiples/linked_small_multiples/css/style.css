@@ -32,7 +32,7 @@ h1 {
 }
 
 svg {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .background {
@@ -51,6 +51,7 @@ svg {
 
 .title {
   font-size: 10px;
+  position: absolute;
 }
 
 .axis line, .grid line {
