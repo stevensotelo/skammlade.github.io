@@ -3,7 +3,7 @@
       formatYear = d3.format("02d"),
       formatDate = function(d) { return formatYear(d.getFullYear()); };
 	  
-  var margin = {top: 40, right: 20, bottom: 40, left: 80},
+  var margin = {top: 40, right: 20, bottom: 40, left: 90},
       width = 960 - margin.left - margin.right,
       height = 800 - margin.top - margin.bottom,
       lineheight = height;
