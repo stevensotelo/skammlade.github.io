@@ -1,16 +1,19 @@
 <html>
 <head>
 <style>
+body {
+    margin: 0;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    width: 13%;
     background-color: #cccccc;
-}
-
-li {
-    float: left;
+	position: fixed;
+    height: 100%;
+    overflow: auto;
 }
 
 li a {
@@ -29,16 +32,25 @@ li a:hover:not(.active) {
 .active {
     background-color: #729173;
 }
+
+p {
+    display: block;
+    color: black;
+	font: 16px calibri, sans-serif;
+    text-align: left;
+    padding: 1px;
+    text-decoration: none;
+}
+}
 </style>
 </head>
-<body>
 
 <ul>
   <li><a href="http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html">The Changing Global Diet Story</a></li>
   <li><a href="http://skammlade.github.io/projects/tableau/CountryExploration.html">Country Exploration</a></li>
   <li><a class="active" href="http://skammlade.github.io/projects/tableau/CountryComparison.html">Country Comparison</a></li>
   <li><a href="http://skammlade.github.io/projects/tableau/CropTrends.html">Crop Trends</a></li>
-  <li><a href="http://skammlade.github.io/projects/tableau/NMDSInteractive.html">NMDS Interactive</a></li>
+  <li><a href="http://skammlade.github.io/projects/tableau/NMDSInteractive.html">Increasing Homogeneity</a></li>
 </ul>
 
 </body>
@@ -51,8 +63,7 @@ li a:hover:not(.active) {
     <title></title>
 </head>
 <body>
-    <div class='tableauPlaceholder' id='viz1476809808365' style=
-    'position: relative'>
+    <div class='tableauPlaceholder' id='viz1476809808365' style="margin-left:13%;padding:1px 16px;height:1000px;">
         <noscript><a href='#'><img alt='Country Compare ' src=
         'https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_14890&#47;CountryCompare&#47;1_rss.png'
         style='border: none'></a></noscript><object class='tableauViz' style=
