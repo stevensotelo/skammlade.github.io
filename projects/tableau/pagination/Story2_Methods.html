@@ -42,7 +42,46 @@ div.center {
 	font: bold 20px calibri, sans-serif;
 }
 
+navbar.body {
+    margin: 0;
+}
 
+navbar.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 13%;
+    background-color: #cccccc;
+	position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+navbar.li a {
+    display: block;
+    color: white;
+	font: bold 18px calibri, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+navbar.li a:hover:not(.active) {
+    background-color: #999;
+}
+
+navbar.active {
+    background-color: #729173;
+}
+
+navbar.p {
+    display: block;
+    color: black;
+	font: 16px calibri, sans-serif;
+    text-align: left;
+    padding: 1px;
+    text-decoration: none;
+}
 </style>
 </head>
 
