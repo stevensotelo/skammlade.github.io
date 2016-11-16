@@ -17,7 +17,7 @@ ul.pagination li a {
     text-decoration: none;
     transition: background-color .3s;
     border: 1px solid #999;
-	font: bold 18px calibri, sans-serif;
+ font: bold 18px calibri, sans-serif;
 }
 
 ul.pagination li a.active {
@@ -27,22 +27,22 @@ ul.pagination li a.active {
 }
 
 ul.pagination li a:hover:not(.active) {
-background-color: #999;
+background-color: #555;
 }
 
 div.center {
-	text-align: center;
+ text-align: center;
 }
 
 .header {
     background-color: #00953B;
     color: #ffffff;
-    padding: 8px;
-	margin: 4px;
-	font: bold 20px calibri, sans-serif;
+    padding: 5px;
+    margin: 0px;
+    font: bold 20px calibri, sans-serif;
 }
 
-body {
+body.navbar {
     margin: 0;
 }
 
@@ -51,27 +51,29 @@ ul.navbar {
     margin: 0;
     padding: 0;
     width: 13%;
-    background-color: white;
-	position: fixed;
+    background-color: #999;
+    position: fixed;
     height: 100%;
     overflow: auto;
 }
 
-li.navbar a {
+li a {
     display: block;
-    color: white;
-	font: bold 18px calibri, sans-serif;
+    color: black;
+    font: bold 18px calibri, sans-serif;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-li.navbar a:hover:not(.active) {
-    background-color: #999;
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
 }
 
 .active {
-    background-color: #729173;
+    background-color: #00953B;
+    color: white;
 }
 
 </style>
@@ -81,7 +83,7 @@ li.navbar a:hover:not(.active) {
 
 
 <div class="header">
-<h1>The Changing Global Diet</h1>
+<h1>  The Changing Global Diet</h1>
 </div>
 
 <ul id="navbar" class="navbar">
