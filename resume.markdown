@@ -13,7 +13,7 @@ Below are some projects I have worked on and their associated code files.
 **Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
 **Supervisor:** Dr. Colin Khoury, Research Associate, USDA-ARS Plant and Animal Genetic Resources Preservation  
 **Dates:** August 2016 - Present   
-**Workflow:**   
+**Workflow:**
 * excel file
 * created SQL Server database for data transformations
 * statistical analysis in RStudio
