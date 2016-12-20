@@ -1,8 +1,5 @@
 ---
-layout: post
-title: "Résumé"
-date: 2016
-categories: 
+title: Document Center
 ---
 
 ##Sara Kammlade
