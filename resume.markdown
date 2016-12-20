@@ -3,6 +3,8 @@ layout: page_resume
 title: Sara Kammlade, Résumé
 permalink: /resume/
 ---
+***
+
 sara.kammlade@gmail.com 
   
 ***
@@ -20,7 +22,9 @@ sara.kammlade@gmail.com
 * conduct statistical analysis in RStudio   
 * create interactive data visualizations in Tableau   
 * build temporary website for collaboration using HTML    
+
 <br/>
+
 ### Dietary fiber content in common bean from the middle american gene pool   
 **Project Summary:** 
 **Organization:** Colorado State University
