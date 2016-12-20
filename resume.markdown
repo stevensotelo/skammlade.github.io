@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Student Organic Seed Symposium: 5th Anniversary"
-date: 2016-12-1 
-categories: seed
+layout: page
+title: About
+permalink: /resume/
 ---
 
 ##Sara Kammlade
