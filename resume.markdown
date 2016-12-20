@@ -5,7 +5,8 @@ permalink: /resume/
 ---
 ***
 <br/>
-### The Changing Global Diet
+
+#### The Changing Global Diet
 **Project Summary:**  Create interactive data visualizations associated with the publication [Khoury et. al 2014](http://dx.doi.org/10.1073/pnas.1313490111).  
 **Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
 **Supervisor:** Dr. Colin Khoury, Research Associate, USDA-ARS Plant and Animal Genetic Resources Preservation  
@@ -35,6 +36,5 @@ permalink: /resume/
 * manuscript writing in RStudio using R Markdown
 
 <br/>
-<br/>
-<br/>
+
 ## RNASeq workflow   
