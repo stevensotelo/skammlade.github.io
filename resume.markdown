@@ -13,12 +13,12 @@ Below are some projects I have worked on and their associated code files.
 **Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
 **Supervisor:** Dr. Colin Khoury, Research Associate, USDA-ARS Plant and Animal Genetic Resources Preservation  
 **Dates:** August 2016 - Present   
-**Workflow:**
-* excel file
-* created SQL Server database for data transformations
-* statistical analysis in RStudio
-* interactive data visualizations in Tableau
-* temporary website using HTML   
+**Workflow:**   
+* excel file   
+* created SQL Server database for data transformations   
+* statistical analysis in RStudio   
+* interactive data visualizations in Tableau   
+* temporary website using HTML    
 **Temporary website:** [http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html](http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html)
 
 
