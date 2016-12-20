@@ -22,12 +22,12 @@ permalink: /resume/
 
 <br/>
 
-### Dietary fiber content in common bean from the middle american gene pool   
+#### Dietary fiber content in common bean from the middle american gene pool   
 **Project Summary:**    
 **Organization:** Colorado State University   
 **Supervisor:** Mark Brick, Professor and Department Head   
 **Dates:** May 2016 - Present   
-**Code files:** [https://github.com/skammlade/manuscripts/tree/master/bean_fiber](https://github.com/skammlade/manuscripts/tree/master/bean_fiber)
+**Code files:** [https://github.com/skammlade/manuscripts/tree/master/bean_fiber](https://github.com/skammlade/manuscripts/tree/master/bean_fiber)   
 **Workflow:**   
 
 * excel data files
