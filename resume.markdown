@@ -1,6 +1,6 @@
 ---
 layout: page_resume
-title: About
+title: Sara Kammlade, Résumé
 permalink: /resume/
 ---
 
