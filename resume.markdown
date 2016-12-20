@@ -4,7 +4,7 @@ title: Sara Kammlade, Résumé
 permalink: /resume/
 ---
 sara.kammlade@gmail.com   
-
+***
 ### The Changing Global Diet
 **Project Summary:**  Create interactive data visualizations associated with the publication [Khoury et. al 2014](http://dx.doi.org/10.1073/pnas.1313490111).  
 **Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
@@ -19,7 +19,7 @@ sara.kammlade@gmail.com
 * create interactive data visualizations in Tableau   
 * build temporary website for collaboration using HTML    
 <br/>
-### Dietary fiber content in common bean from the middle american gene pool
+### Dietary fiber content in common bean from the middle american gene pool   
 **Project Summary:** 
 **Organization:** Colorado State University
 **Supervisor:** Mark Brick, Professor and Department Head
