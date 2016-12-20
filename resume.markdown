@@ -3,10 +3,7 @@ layout: page_resume
 title: Sara Kammlade, Résumé
 permalink: /resume/
 ---
-
-##Sara Kammlade
-##B.S. Biology, University of Illinois at Urbana-Champaign, 2009
-##M.S. Horticultural Science, Plant Breeding and Genetics, Colorado State University, 2015
+Below are some projects I have worked on and their associated code files.
 
 ##The Changing Global Diet
 Organization: CIAT ()
