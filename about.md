@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![2015 Equinox Poudre Canyon](/images/sarawill.park.jpg)
 
-##you can find
+## you can find
 You can find me [riding bikes][Strava] and playing with plants in Fort Collins, CO.
 
 [Strava]: https://www.strava.com/athletes/skammlade
