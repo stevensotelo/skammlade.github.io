@@ -1,5 +1,8 @@
 ---
-title: Document Center
+layout: post
+title: "Student Organic Seed Symposium: 5th Anniversary"
+date: 2016-12-1 
+categories: seed
 ---
 
 ##Sara Kammlade
