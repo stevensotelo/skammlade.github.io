@@ -23,7 +23,7 @@ permalink: /resume/
 <br/>
 
 #### Dietary fiber content in common bean from the middle american gene pool   
-**Project Summary:**    
+**Project Summary:** Determine differences in fiber content (soluble fiber, insoluble fiber, and oligosaccharides) between races and market classes of dry beans. Also, to determine the effect of environment.    
 **Organization:** Colorado State University   
 **Supervisor:** Mark Brick, Professor and Department Head   
 **Dates:** May 2016 - Present   
