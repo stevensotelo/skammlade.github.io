@@ -9,10 +9,10 @@ sara.kammlade@gmail.com
 Below are some projects I have worked on and their associated code files.
 
 ### The Changing Global Diet
-**Organization:** CIAT ()  
-**Supervisor:** Colin Khoury, USDA-Crop Preservation   
-**Dates:** August 2016-Present   
-**Project Summary:**  
+**Project Summary:**  Create interactive data visualizations associated with the publication [Khoury et. al 2014](http://dx.doi.org/10.1073/pnas.1313490111).  
+**Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
+**Supervisor:** Dr. Colin Khoury, Research Associate, USDA-ARS Plant and Animal Genetic Resources Preservation  
+**Dates:** August 2016 - Present   
 **Workflow:**   
 * excel file
 * created SQL Server database for data transformations
