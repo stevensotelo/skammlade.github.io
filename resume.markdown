@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Résumé"
-date: 
+date: 2016
 categories: 
 ---
 
