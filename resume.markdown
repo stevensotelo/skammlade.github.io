@@ -12,15 +12,14 @@ Below are some projects I have worked on and their associated code files.
 **Project Summary:**  Create interactive data visualizations associated with the publication [Khoury et. al 2014](http://dx.doi.org/10.1073/pnas.1313490111).  
 **Organization:** International Center for Tropical Agriculture (CIAT), Crop Wild Relatives Research Unit  
 **Supervisor:** Dr. Colin Khoury, Research Associate, USDA-ARS Plant and Animal Genetic Resources Preservation  
-**Dates:** August 2016 - Present   
+**Dates:** August 2016 - Present  
+**Temporary website:** [http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html](http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html) 
 **Workflow:**
-   
 * excel data file   
 * create SQL Server database for data transformations and analysis   
 * conduct statistical analysis in RStudio   
 * create interactive data visualizations in Tableau   
 * build temporary website for collaboration using HTML    
-**Temporary website:** [http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html](http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html)
 <br/>
 <br/>
 <br/>
