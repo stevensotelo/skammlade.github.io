@@ -15,7 +15,7 @@ permalink: /resume/
 **Workflow:**
 
 * excel data files  
-* create SQL Server database for data transformations and analysis   
+* create [SQL](https://github.com/skammlade/skammlade.github.io/tree/master/projects/tableau/SQLServerQueries) Server database for data transformations and analysis   
 * conduct statistical analysis in RStudio   
 * create interactive data visualizations in Tableau   
 * build temporary website for collaboration using HTML    
