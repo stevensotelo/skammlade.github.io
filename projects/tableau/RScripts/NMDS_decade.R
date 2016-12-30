@@ -71,49 +71,52 @@ cropsFat$AvgValueForDecade[is.na(cropsFat$AvgValueForDecade)]<-0
 cropsProtein$AvgValueForDecade[is.na(cropsProtein$AvgValueForDecade)]<-0
 cropsFoodWeight$AvgValueForDecade[is.na(cropsFoodWeight$AvgValueForDecade)]<-0
 
-
+#pivot datatable
 pivotCropsCalories<-dcast(cropsCalories, Decade+CountryName ~ ItemName ,value.var="AvgValueForDecade")
 pivotCropsFat<-dcast(cropsFat, Decade+CountryName ~ ItemName ,value.var="AvgValueForDecade")
 pivotCropsProtein<-dcast(cropsProtein, Decade+CountryName ~ ItemName ,value.var="AvgValueForDecade")
 pivotCropsFoodWeight<-dcast(cropsFoodWeight, Decade+CountryName ~ ItemName ,value.var="AvgValueForDecade")
 
+#remove country and decade columns
 dataNMDSDecadesCropsCalories<-pivotCropsCalories[,3:56]
 dataNMDSDecadesCropsFat<-pivotCropsFat[,3:56]
 dataNMDSDecadesCropsProtein<-pivotCropsProtein[,3:56]
 dataNMDSDecadesCropsFoodWeight<-pivotCropsFoodWeight[,3:56]
 
-
+#open vegan library
+#https://cran.r-project.org/web/packages/vegan/vegan.pdf
 library(vegan)
 
+#Nonmetric multidimensional scaling with stable solution from random starts, axis scaling, and species scores
 MDSCalories<-metaMDS(dataNMDSDecadesCropsCalories,
                         distance="bray",
                         k=2, 
                         trymax = 20, 
                         stratmax=0.9999999999 )
-stressplot(MDSCalories)
 
 MDSFat<-metaMDS(dataNMDSDecadesCropsFat,
                      distance="bray",
                      k=2, 
                      trymax = 20, 
                      stratmax=0.9999999999 )
-stressplot(MDSFat)
 
 MDSProtein<-metaMDS(dataNMDSDecadesCropsProtein,
                 distance="bray",
                 k=2, 
                 trymax = 20, 
                 stratmax=0.9999999999 )
-stressplot(MDSProtein)
-
 
 MDSFoodWeight<-metaMDS(dataNMDSDecadesCropsFoodWeight,
                     distance="bray",
                     k=2, 
                     trymax = 20, 
                     stratmax=0.9999999999 )
-stressplot(MDSFoodWeight)
 
+#stressplot to visualize fit of ordination
+stressplot(MDSCalories)
+stressplot(MDSFat)
+stressplot(MDSProtein)
+stressplot(MDSFoodWeight)
 
 #Stress test to show decrease in ordination stress with an increas in the number of dimensions
 #https://cran.r-project.org/web/packages/goeveg/goeveg.pdf
@@ -123,7 +126,48 @@ dimcheckMDS(dataNMDSDecadesCropsFat, distance = "bray", k = 8, trymax = 20, auto
 dimcheckMDS(dataNMDSDecadesCropsProtein, distance = "bray", k = 8, trymax = 20, autotransform = TRUE)
 dimcheckMDS(dataNMDSDecadesCropsFoodWeight, distance = "bray", k = 8, trymax = 20, autotransform = TRUE)
 
-#Get the species and site scores
+#create variable 'NMDSGroups' with Country and Decade information
+NMDSGroups<-pivotCropsCalories[,1:2]
+
+#return NMDS coordinates for all Measurements including Country and Decade information
+NMDSCoordinatesCalories<-data.frame(MDS1 = MDSCalories$points[,1], 
+                                     MDS2 = MDSCalories$points[,2],
+                                     group=NMDSGroups$Decade,
+                                     Country=NMDSGroups$Country)
+NMDSCoordinatesFat<-data.frame(MDS1 = MDSFat$points[,1], 
+                                    MDS2 = MDSFat$points[,2],
+                                    group=NMDSGroups$Decade,
+                                    Country=NMDSGroups$Country)
+NMDSCoordinatesProtein<-data.frame(MDS1 = MDSProtein$points[,1], 
+                                    MDS2 = MDSProtein$points[,2],
+                                    group=NMDSGroups$Decade,
+                                    Country=NMDSGroups$Country)
+NMDSCoordinatesFoodWeight<-data.frame(MDS1 = MDSFoodWeight$points[,1], 
+                                    MDS2 = MDSFoodWeight$points[,2],
+                                    group=NMDSGroups$Decade,
+                                    Country=NMDSGroups$Country)
+
+#add column 'ElementName' to dataframes
+NMDSCoordinatesCalories$ElementName <- rep("Calories", nrow(NMDSCoordinatesCalories))
+NMDSCoordinatesFat$ElementName <- rep("Fat", nrow(NMDSCoordinatesFat))
+NMDSCoordinatesProtein$ElementName <- rep("Protein", nrow(NMDSCoordinatesProtein))
+NMDSCoordinatesFoodWeight$ElementName <- rep("Food Weight", nrow(NMDSCoordinatesFoodWeight))
+
+#merge all measurement coordinates dataframes vertically into one dataframe
+NMDSCoordinatesDecadesAllMeasurements <- rbind(NMDSCoordinatesCalories,
+                                NMDSCoordinatesFat,
+                                NMDSCoordinatesProtein,
+                                NMDSCoordinatesFoodWeight)
+
+#export dataframe to csv file
+write.csv(NMDSCoordinatesDecadesAllMeasurements, "NMDSCoordinatesDecadesAllMeasurements.csv")
+
+
+#----------------------------------------------------------
+#---------Additional scripts to obtain ellipses------------
+#----------------------------------------------------------
+
+#Get species and site scores
 speciesScoreCalories<-scores(MDSCalories,display="species",shrink=shrink)
 speciesScoreFat<-scores(MDSFat,display="species",shrink=shrink)
 speciesScoreProtein<-scores(MDSProtein,display="species",shrink=shrink)
@@ -135,7 +179,7 @@ countryScoreProtein<-scores(MDSProtein,display="sites")
 countryScoreFoodWeight<-scores(MDSFoodWeight,display="sites")
 
 
-#Work out the ranges
+#Work out ranges
 ylimyCalories<-range(speciesScoreCalories[,2],countryScoreCalories[,2])
 xlimxCalories<-range(speciesScoreCalories[,1],countryScoreCalories[,1])
 
