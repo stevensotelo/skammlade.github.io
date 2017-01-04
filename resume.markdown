@@ -5,6 +5,18 @@ permalink: /resume/
 ---
 ***
 <br/>
+#### Master's Thesis
+**Project Summary:**
+**Organization:** Colorado Potato Breeding and Selection Program
+**Supervisors:** Dr. David Holm, Dr. Samuel Essah, Dr. Mary Stromberger
+**Dates:** January 2013 - December 2015
+**Workflow:**
+
+* excel data files
+* statistical analysis in R Studio (Two-way analysis of variance (ANOVA), correlation, two tailed t-test)
+* tables and figures in R Studio and microsoft Excel
+
+<br/>
 
 #### The Changing Global Diet
 **Project Summary:**  Create interactive data visualizations associated with the publication [Khoury et. al 2014](http://dx.doi.org/10.1073/pnas.1313490111).  
@@ -16,7 +28,7 @@ permalink: /resume/
 
 * excel data files  
 * create [SQL](https://github.com/skammlade/skammlade.github.io/tree/master/projects/tableau/SQLServerQueries) Server database for data transformations and analysis   
-* conduct statistical analysis in RStudio   
+* conduct statistical analysis in RStudio  (analysis of variance (ANOVA),  
 * create interactive data visualizations in Tableau   
 * build temporary website for collaboration using HTML    
 
@@ -36,5 +48,9 @@ permalink: /resume/
 * manuscript writing in RStudio using R Markdown
 
 <br/>
+
+#### Weather Changes in Major U.S. Cities from 1940s-2016
+**Project Summary:**
+**Organization:* 
 
 ## RNASeq workflow   
